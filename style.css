@@ -15,4 +15,12 @@
   .tale:hover {
     background-color: rgb(135, 70, 255);
   }
-  
+  footer {
+    text-align: center;
+    background: #eec4ff;
+    padding: 5px;
+  }
+  #footer {
+    text-decoration: none;
+    
+  }
